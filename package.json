@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "peerDependencies": {
+    "@coat/cli": "github:coat-dev/cli-e2e-tests-template#coat/cli-mock"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/coat-dev/cli-e2e-tests-template.git"
