@@ -1,6 +1,6 @@
 {
   "name": "@coat/e2e-test-template",
-  "version": "3.0.0-sync.1",
+  "version": "3.0.0-sync.2",
   "description": "Sample template to be used in e2e tests of @coat/cli",
   "main": "index.js",
   "scripts": {
