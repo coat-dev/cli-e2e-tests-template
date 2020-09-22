@@ -1,0 +1,19 @@
+{
+  "name": "@coat/e2e-test-template",
+  "version": "1.0.0",
+  "description": "Sample template to be used in e2e tests of @coat/cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coat-dev/cli-e2e-tests-template.git"
+  },
+  "author": "Peter Juras <me@peterjuras.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coat-dev/cli-e2e-tests-template/issues"
+  },
+  "homepage": "https://github.com/coat-dev/cli-e2e-tests-template#readme"
+}
