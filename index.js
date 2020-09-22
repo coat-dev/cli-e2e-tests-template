@@ -1,12 +1,5 @@
-module.exports = {
-  name: "@coat/e2e-test-template",
-  files: [
-    {
-      file: "e2e-test-template-sync-2.0.0",
-      content: {
-        b: 1,
-      },
-      type: "JSON",
-    },
-  ],
-};
+#!/usr/bin/env node
+const { argv } = process;
+const [nodeBin, cliPath, ...args] = argv;
+
+console.log("[MOCK CLI] called with: %s", args.join(" "));
