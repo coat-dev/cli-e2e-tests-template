@@ -1,10 +1,10 @@
 module.exports = {
-  name: "@coat/e2e-test-template-sync-1",
+  name: "@coat/e2e-test-template-sync-2",
   files: [
     {
-      file: "e2e-test-template-sync-1",
+      file: "e2e-test-template-sync-2",
       content: {
-        a: 1,
+        b: 1,
       },
       type: "JSON",
     },

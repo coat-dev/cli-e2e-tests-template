@@ -1,5 +1,5 @@
 {
-  "name": "@coat/e2e-test-template-sync-1",
+  "name": "@coat/e2e-test-template-sync-2",
   "version": "1.0.0",
   "description": "Sample template to be used in e2e tests of @coat/cli",
   "main": "index.js",
