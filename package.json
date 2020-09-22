@@ -1,6 +1,6 @@
 {
   "name": "@coat/e2e-test-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sample template to be used in e2e tests of @coat/cli",
   "main": "index.js",
   "scripts": {
