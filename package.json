@@ -1,8 +1,11 @@
 {
-  "name": "@coat/e2e-test-template-sync-2",
+  "name": "@coat/e2e-test-template-sync-4",
   "version": "1.0.0",
   "description": "Sample template to be used in e2e tests of @coat/cli",
   "main": "index.js",
+  "dependencies": {
+    "@coat/e2e-test-template": "3.0.0-sync.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
