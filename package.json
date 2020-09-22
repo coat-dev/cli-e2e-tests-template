@@ -1,11 +1,8 @@
 {
-  "name": "@coat/e2e-test-template",
-  "version": "2.0.0",
+  "name": "@coat/e2e-test-template-run-1",
+  "version": "1.0.0",
   "description": "Sample template to be used in e2e tests of @coat/cli",
   "main": "index.js",
-  "peerDependencies": {
-    "no-op": "1.0.3"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
