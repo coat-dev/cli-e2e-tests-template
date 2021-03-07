@@ -1,11 +1,11 @@
 {
   "name": "@coat/cli",
   "bin": {
-    "coat": "index.js"
+    "coat": "bin/coat.js"
   },
   "version": "0.0.1",
   "description": "cli mock to be used in @coat/cli e2e tests",
-  "main": "index.js",
+  "main": "bin/coat.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
